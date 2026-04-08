@@ -1,0 +1,36 @@
+---
+title: "Bigfoot Sightings: A Seasonal Analysis"
+layout: post
+---
+
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+## Bigfoot Visualizations
+
+<div id="vis1"></div>
+<hr>
+<div id="vis2"></div>
+
+<script type="text/javascript">
+  var spec1 = "assets/json/bigfoot_chart.json";
+  vegaEmbed('#vis1', spec1).catch(console.error);
+
+  var spec2 = "assets/json/bigfoot_chart_inter.json";
+  vegaEmbed('#vis2', spec2).catch(console.error);
+</script>
+
+### Analysis of Visualization 1
+This chart visualizes Bigfoot sightings by state and season. I wanted to show which states have the most activity and identify seasonal patterns. This chart helps demonstrate potential environmental preferences, as sighting frequency varies by season. I used **Nominal** encodings for the state and season categories and **Quantitative** encodings for the record counts. I utilized Altair's internal aggregation to calculate these counts directly from the raw data.
+
+### Analysis of Visualization 2
+This chart visualizes sightings by geographical location (longitude and latitude) categorized by season. This spatial view shows which specific regions have the highest density of reports. I used **Quantitative** encodings for the geographic coordinates and **Nominal** encodings for the seasons. No specific custom color scheme was chosen; I utilized Altair's default categorical colors to ensure the seasons remain easy to distinguish. 
+
+### Interactivity Discussion
+For the second chart, I implemented a **dropdown menu** that allows users to filter sightings by season. Because the dataset contains a high volume of points, the map can become cluttered. This custom interactivity helps make the visualization clearer by allowing the viewer to focus on one season at a time, providing a better understanding of Bigfoot report distribution.
+
+---
+
+<a href="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv" class="btn">The Data</a>
+<a href="https://github.com/Babymickey/Babymickey.github.io/blob/main/bigfoot.ipynb" class="btn">The Analysis</a>
