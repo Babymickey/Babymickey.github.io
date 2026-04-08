@@ -32,5 +32,5 @@ For the second chart, I implemented a dropdown menu for seasons. Since the datas
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/Babymickey/Babymickey.github.io/blob/main/bigfoot.ipynb" text="The Method" %}
+{% include elements/button.html link="https://github.com/Babymickey/Babymickey.github.io/blob/main/Bigfoot_Analysis.ipynb" text="The Method" %}
 </div>
