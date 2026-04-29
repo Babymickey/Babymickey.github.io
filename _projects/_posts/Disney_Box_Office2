@@ -1,7 +1,11 @@
-layout: default
-title: 80 Years of Disney Box Office Magic
-permalink: /disney-box-office/
-project_name: Disney Box Office
+---
+layout: post
+title: "80 Years of Disney Box Office Magic"
+author: "Mickey Felton"
+project_name: "80 Years of Disney Box Office Magic"
+image: assets/pngs/images.jpg
+show_tile: true
+---
 
 # 80 Years of Disney Box Office Magic
 **Group: Mickey Felton**
@@ -13,18 +17,18 @@ Since the release of Snow White in 1937, Disney has transitioned into a media po
 
 
 ### Strategy by Genre: What makes the most?
-When it's broken down by genre, you may begin to pick up on Disney’s strategy. While “Musical”, “Drama” and “Comedy” defined the studio's early identity and remain high-performing categories, “Adventure”, “Action” and “Drama” have become the primary drivers of Disney in the modern era. This shift suggests that Disney has moved toward elaborate, broad-appeal movies that can perform well in the international market as well. Looking at the average gross per genre in the chart below makes it clear why the studio focuses on adventure sagas.
+When its broken down by genre, you may begin to pck up on Disney’s strategy. While “Musical”, “Drama” and “Comedy” defined the studios early identity and remains a high-preforming category, “Adventure”, “Action” and “Drama” have become the primary drivers of Disney in the modern era. This shift suggests that DIsney has moved toward elaborat, broad-appeal movies, that can perform well in the international market as well. By looking at the average gross per genre in the chart below, it becomes clear why the studio focuses on adventure sagas.
 
-{% include vegachart.html path="assets/json/disney_genre.json" %} 
+{% include vegachart.html path="assets/json/disney_genre.json" %}
 
 
-### The Impact of the Renaissance Era?
-To understand Disney’s modern dominance, it's important to look back at the “Renaissance Era”, between 1989 and 1999. After stagnation in the 1980s, this decade saw a string of massive hits, starting with “The Little Mermaid” and peaking at “The Lion King”, which revitalized the Disney brand. The chart below highlights the top performers from the Renaissance era, showcasing how Disney reclaimed the box office and set the stage for their current height. These films developed the nostalgia of Disney, which allowed Disney to leverage this for the current live-action remakes.
+### THe Impact of Renessiance Era?
+To understand Disney’s modern dominance, its important to look back at the “Renaissance Era”, between 1989 and 1999. After stagnation in the 1980s, this decade saw a string of massive hits, starting with “The Little Mermaid” and peaking at “The Lion King”, which revitalized the disney brand. The chart below highlights the top performers from the renaissance era, showcasing how Disney reclaimed the box office and set the stage for their current height. These films developed the nostalgia of Disney, that allowed Disney to leverage this for the current live-action remakes.
 
 {% include vegachart.html path="assets/json/renaissance_chart.json" %}
 
 ---
 **Data Sources:** [Disney Movies Dataset via Data.World](https://query.data.world/s/q6d4wfxrzhpcxwurhr5ly6hv7vb7ti?dws=00000)  
 **Contextual Visualizations:** These charts were created by the author using the primary Disney dataset.  
-**Notebook:** [View the Python Analysis Notebook on GitHub](https://github.com/Babymickey/Babymickey.github.io/blob/main/python_notebooks/Disney.ipynb)
+**Analysis Notebook:** [View the Python Analysis Notebook on GitHub](https://github.com/Babymickey/Babymickey.github.io/blob/main/python_notebooks/disney.ipynb)
 
