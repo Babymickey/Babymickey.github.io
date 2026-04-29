@@ -1,0 +1,6 @@
+<div id="{{ include.path | slugify }}"></div>
+<script type="text/javascript">
+  var spec = "{{ site.baseurl }}/{{ include.path }}";
+  vegaEmbed('#{{ include.path | slugify }}', spec).then(function(result) {
+  }).catch(console.error);
+</script>
