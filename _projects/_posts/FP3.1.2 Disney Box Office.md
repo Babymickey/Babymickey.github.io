@@ -10,7 +10,7 @@ Since the release of Snow White in 1937, Disney has transitioned into a media po
 ### Strategy by Genre: What makes the most?
 When it's broken down by genre, you may begin to pick up on Disney’s strategy. While “Musical”, “Drama” and “Comedy” defined the studio's early identity and remain high-performing categories, “Adventure”, “Action” and “Drama” have become the primary drivers of Disney in the modern era. This shift suggests that Disney has moved toward elaborate, broad-appeal movies that can perform well in the international market as well. Looking at the average gross per genre in the chart below makes it clear why the studio focuses on adventure sagas.
 
-{% include vegachart.html path="assets/json/disney_genre.json" %}
+{% include vegachart.html path="assets/json/disney_genre.json" %} 
 
 
 ### The Impact of the Renaissance Era?
