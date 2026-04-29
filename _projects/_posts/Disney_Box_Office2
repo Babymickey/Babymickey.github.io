@@ -6,6 +6,11 @@ project_name: "80 Years of Disney Box Office Magic"
 image: assets/pngs/images.jpg
 show_tile: true
 ---
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+
 
 # 80 Years of Disney Box Office Magic
 **Group: Mickey Felton**
