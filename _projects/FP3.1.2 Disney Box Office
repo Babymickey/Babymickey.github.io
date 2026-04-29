@@ -16,4 +16,4 @@ It zooms in on a specific legendary era (1989–1999).
 
 ---
 **Data Sources:** [Disney Movies Dataset](https://query.data.world/s/q6d4wfxrzhpcxwurhr5ly6hv7vb7ti?dws=00000)  
-**Analysis:** [Link to your Jupyter Notebook file here]
+**Analysis:** main/disney.ipynb
