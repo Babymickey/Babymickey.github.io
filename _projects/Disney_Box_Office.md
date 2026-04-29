@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "80 Years of Disney Box Office Magic"
+name: 80 Years of Disney Box Office Magic
 author: "Mickey Felton"
 project_name: "80 Years of Disney Box Office Magic"
 image: assets/pngs/images.jpg
+description: Disney Box Office across the decades.
 show_tile: true
+
+
 ---
 <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
