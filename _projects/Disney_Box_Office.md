@@ -3,7 +3,7 @@ layout: post
 title: "80 Years of Disney Box Office Magic"
 author: "Mickey Felton"
 project_name: "80 Years of Disney Box Office Magic"
-image: assets/pngs/cars.png
+image: assets/pngs/images.jpg
 show_tile: true
 ---
 
