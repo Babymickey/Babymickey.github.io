@@ -2,6 +2,9 @@
 layout: post
 title: "80 Years of Disney Box Office Magic"
 author: "Mickey Felton"
+project_name: "80 Years of Disney Box Office Magic"
+image: assets/pngs/cars.png
+show_tile: true
 ---
 
 # 80 Years of Disney Box Office Magic
@@ -27,5 +30,5 @@ To understand Disney’s modern dominance, its important to look back at the “
 ---
 **Data Sources:** [Disney Movies Dataset via Data.World](https://query.data.world/s/q6d4wfxrzhpcxwurhr5ly6hv7vb7ti?dws=00000)  
 **Contextual Visualizations:** These charts were created by the author using the primary Disney dataset.  
-**Analysis Notebook:** [View the Python Analysis Notebook on GitHub](https://github.com/Babymickey/Babymickey.github.io/blob/main/python_notebooks/Disney.ipynb)
+**Analysis Notebook:** [View the Python Analysis Notebook on GitHub](https://github.com/Babymickey/Babymickey.github.io/blob/main/python_notebooks/disney.ipynb)
 
