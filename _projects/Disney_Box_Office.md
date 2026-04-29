@@ -1,12 +1,11 @@
 ---
-name: 80 Years of Disney Box Office Magic
+layout: post
+title: "80 Years of Disney Box Office Magic"
+name: "80 Years of Disney Box Office Magic"
 author: "Mickey Felton"
-project_name: "80 Years of Disney Box Office Magic"
 image: assets/pngs/images.jpg
-description: Disney Box Office across the decades.
+description: "Exploring 80 years of box office trends and the Renaissance era."
 show_tile: true
-
-
 ---
 <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
