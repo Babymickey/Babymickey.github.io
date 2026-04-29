@@ -4,7 +4,7 @@ title: "80 Years of Disney Box Office Magic"
 name: "80 Years of Disney Box Office Magic"
 author: "Mickey Felton"
 image: assets/pngs/images.jpg
-description: "Exploring 80 years of box office trends and the Renaissance era."
+description: "Exploring 80 years of box office trends"
 show_tile: true
 ---
 <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
