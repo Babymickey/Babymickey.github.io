@@ -1,7 +1,8 @@
-layout: default
-title: 80 Years of Disney Box Office Magic
-permalink: /disney-box-office/
-project_name: Disney Box Office
+---
+layout: post
+title: "80 Years of Disney Box Office Magic"
+author: "Mickey Felton"
+---
 
 # 80 Years of Disney Box Office Magic
 **Group: Mickey Felton**
