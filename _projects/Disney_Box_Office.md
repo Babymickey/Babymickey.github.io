@@ -17,7 +17,7 @@ show_tile: true
 
 <br>
 ### Disney Box Office Success
-     Have you ever wondered how Disney has evolved from a small animation house to a box office giant? I have. Since the release of Snow White in 1937, Disney has undergone a major transformation. While the "Disney Renaissance Era" is credited for this, the real story lies in how the studio shifted it focus to dominate the modern era.
+  Have you ever wondered how Disney has evolved from a small animation house to a box office giant? I have. Since the release of Snow White in 1937, Disney has undergone a major transformation. While the "Disney Renaissance Era" is credited for this, the real story lies in how the studio shifted it focus to dominate the modern era.
 <br>
 <br>
 ### From Variety to Velocity: The Strategic Pivot
