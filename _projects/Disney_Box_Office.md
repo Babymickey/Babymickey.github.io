@@ -39,7 +39,8 @@ The "Renaissance Era" (1989-1999) is often called a creative miracle. But the nu
 
 <br>
 ### Disney vs. The Giants: 1943-2021
-Finally, we must ask if Disney’s hits are simply outliers or if they follow the general success of the era. To find out I pulled the Top 25 movies from 1943-2021, comparing the number of Disney successes to other industry successes. For example if you look specifically at Disney's adventure catalog compared to all the Top 25, the results are startling. While one might expect a single studio’s average to be dwarfed by an all-time ‘Best Of’ list, Disney’s Adventure catalog averages $127 million—only 22% behind the Top 25 industry average of $163 million. <br>
+Finally, we must ask if Disney’s hits are simply outliers or if they follow the general success of the era. To find out I pulled the Top 25 movies from 1943-2021, comparing the number of Disney successes to other industry successes. For example if you look specifically at Disney's adventure catalog compared to all the Top 25, the results are startling. While one might expect a single studio’s average to be dwarfed by an all-time ‘Best Of’ list, Disney’s Adventure catalog averages $127 million—only 22% behind the Top 25 industry average of $163 million. 
+<br>
 When you consider that the Top 25 includes the biggest blockbusters ever made (like *Avatar, Star Wars, Avengers and Titanic), the fact that Disney’s average movie performs so close to the industry’s peak highlights their massive brand power. This confirms that a standard Disney adventure is often a "massive hit" for anyone else.  
 
 {% include vegachart.html path="assets/json/boxoffice_color_chart.json" %}
