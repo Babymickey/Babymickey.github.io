@@ -15,7 +15,7 @@ show_tile: true
 # 80 Years of Disney Box Office Magic
 **Group: Mickey Felton**
 
-                                             ### Introduction: Why do we care about the Mouse?
+###                                            Introduction: Why do we care about the Mouse?
 Since the release of Snow White in 1937, Disney has transitioned into a media powerhouse. This transition is clearly visible when looking at Disney Movie Box Office data over the last 30 years. In the beginning, Disney releases were sporadic, then there was a boom in movies during the Disney Renaissance Era. As Disney found its formula for movies and acquired big-name franchises such as “Avengers”, it has reached unprecedented heights. This interactive chart allows you to explore every major release and filter by genre to see how Disney’s output has increased in the 21st century.
 
 
