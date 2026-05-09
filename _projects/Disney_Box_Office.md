@@ -21,7 +21,7 @@ show_tile: true
 <br>
 <br>
 ### From Variety to Velocity: The Strategic Pivot
- To understand this evolution, we can first look at the sheer volume and timing of their releases. In the early years, Disney's release schedule was sporadic and lacked a clear genre identity. However, as we approached the 21st century, the scatter plot showed larger clusters. Disney began producing more movies and focusing on Adventure and Action. This wasn't accidental; it was a strategic move to capitalize on genres with the highest global "repeat-watch" appeal and merchandising potential.
+ To understand this evolution, we can first look at the sheer volume and timing of their releases. Using the scattter plot below ou can evaluate the evolution of Disney's production. In the early years, Disney's release schedule was sporadic and lacked a clear genre identity. However, as they drew closer to the 21st century, they drastically increased movie production. Disney also began focusing on Adventure and Action more. This wasn't accidental; it was a strategic move to capitalize on genres with the highest global "repeat-watch" appeal and merchandising potential.
 
 {% include vegachart.html path="assets/json/main_color_chart.json" %}
 <br>
