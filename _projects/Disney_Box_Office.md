@@ -52,7 +52,6 @@ Through these datasets, it’s clear that Disney’s dominance is the result of 
 
 ---
 **Data Sources:** [Disney Movies Dataset via Data.World](https://query.data.world/s/q6d4wfxrzhpcxwurhr5ly6hv7vb7ti?dws=00000)  
-<br>
 **Contextual Visualizations:** These charts were created by the author using the primary Disney dataset and A Box Office Hits Dataset [Box Office Hits Dataset via Kaggle/Github](https://raw.githubusercontent.com/kalilurrahman/BoxOfficeData/main/boxofficemojoustop1000.tsv)
 <br>
 **Analysis Notebook:** [View the Python Analysis Notebook on GitHub](https://github.com/Babymickey/Babymickey.github.io/blob/main/python_notebooks/disney.ipynb)
