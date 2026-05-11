@@ -49,7 +49,7 @@ When you consider that the Top 25 includes the biggest blockbusters ever made (l
 Our analysis reveals three main truths about the "Magic" of the Disney:
 1. **Strategic Pivot:** Disney's move from unfocused genres releases to leaning toward Adventure and Action was a calculated financial shift to capture the global 21st-century market.
 2. **The Brand Premium:** Disney movies consistently outperform industry-average benchmarks in the same genres, showing the power of their intellectual property.
-3. **Renaissance Dominance:** The 1990s were a period where Disney's creative output fundamentally outpaced the growth of the rest of Hollywood, allowing them to become the giant they are today..
+3. **Renaissance Dominance:** The 1990s were a period where Disney's creative output fundamentally outpaced the growth of the rest of Hollywood, allowing them to learn the direction to evolve into the giant they are today.
 
 Through these datasets, it’s clear that Disney’s dominance is the result of a disciplined, data-driven strategy of genre dominance and brand leverage.
 
