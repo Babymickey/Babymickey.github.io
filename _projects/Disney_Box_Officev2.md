@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "80 Years of Disney Box Office Magic"
-name: "80 Years of Disney Box Office Magic"
+name: "80 Years of Disney Box Office Magic v2"
 Group: "Mickey Felton"
 image: assets/pngs/images.jpg
 description: "Exploring 80 years of box office trends"
