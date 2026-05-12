@@ -35,7 +35,7 @@ The pivot raises the questions: Why has this genre focus occurred? The answer ca
 ### The Impact of Disney Renaissance Era?
 The "Renaissance Era" (1989-1999) is often called a creative miracle. But the numbers suggest it was where Disney learned a lesson in market performance. During this decade, the global box office grew at a healthy 5%. Yet, Disney's revenue skyrocketed at nearly 15%. Hits like *The Lion King* and *Toy Story 2* proved that while the box office was growing for everyone, Disney was showing to be a much bigger powerhouse. They didnt just ride the wave of the decade, they owned it with Action and Adventure movies.
 
-{% include vegachart.html path="assets/json/renaissance_color_chart.json" %}
+{% include vegachart.html path="assets/json/boxoffice_ren_color_chart.json" %}
 
 <br>
 ### Disney vs. The Giants: 1937-2016
