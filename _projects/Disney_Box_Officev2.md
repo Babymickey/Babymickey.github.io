@@ -42,7 +42,7 @@ The "Renaissance Era" (1989-1999) is often called a creative miracle. But the nu
 Finally, we must ask if Disney’s hits are simply outliers or if they follow the the structure Disney began to develop from their renaissance era. To find out I pulled the Top 25 movies from 1937-2016, comparing the number of Disney successes to other industry successes. For example if you look specifically at Disney's adventure catalog compared to all the Top 25, the results are startling. While one might expect a single studio’s average to be dwarfed by an all-time ‘Best Of’ list, Disney’s Adventure catalog averages $127 million—only 22% behind the Top 25 industry average of $163 million. 
 When you consider that the Top 25 includes the biggest blockbusters ever made (like *Avatar, Star Wars, Avengers and Titanic), the fact that Disney’s average movie performs so close to the industry’s peak highlights their massive brand power. This confirms that a standard Disney adventure is often a "massive hit" for anyone else, which is why they began focusing more in Adventure and Action movies.   
 
-{% include vegachart.html path="assets/json/boxoffice_80_color_chart.json" %}
+{% include vegachart.html path="assets/json/boxoffice_color_chart.json" %}
 
 <br>
 ### Conclusion: The Science Behind the Magic
